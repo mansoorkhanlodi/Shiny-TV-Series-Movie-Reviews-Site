@@ -1,1 +1,1 @@
-# This simple TV Series & Movies Review Website is created with the help of Shiny app from R-Studio.
+# This is a simple TV Series & Movies Review Website created with the help of Shiny app from R-Studio.
